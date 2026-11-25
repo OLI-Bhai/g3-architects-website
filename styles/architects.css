@@ -116,6 +116,7 @@ main>section {
 
 .banner-image {
   width: 100%;
+  border-radius: 5px;
 }
 
 /* team and feature related styles */
@@ -301,8 +302,8 @@ footer {
   }
 
   #expeience-badge {
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
   }
 }
 
